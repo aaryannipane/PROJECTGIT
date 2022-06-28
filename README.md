@@ -18,7 +18,7 @@ Images
 
 ![image ](https://avatars.githubusercontent.com/u/63520003?s=96&v=4)
 
-Code `for` loop
+Code `for (int i=0; i<=10; i++)` loop
 
 To represent code
 
